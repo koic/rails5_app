@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
+gem 'activerecord-oracle_enhanced-adapter'
 gem 'enumerize'
+gem 'ruby-oci8'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '>= 5.0.0', '< 5.1'
 gem 'dotenv-rails'
