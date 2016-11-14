@@ -1,0 +1,5 @@
+.ruby-version
+/.bundle
+/db/*.sqlite3
+/log/*
+/tmp/*
